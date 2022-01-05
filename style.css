@@ -1,0 +1,78 @@
+.experiance {
+
+border-left: 6px solid;
+padding-left: 5px;
+    width: 50%;
+    margin-left: 10%;
+    
+    
+  
+    
+   
+}
+section{
+    display: flex;
+    margin-bottom: 5%;
+ 
+}
+
+
+ #wellcome{
+     
+     margin-bottom: 10px;
+     background-image: linear-gradient(rgba(255, 0, 0, 0.534),rgb(19, 17, 17));
+     color: white;
+     margin-right:88%;
+     margin-left: 1%;
+     padding: 10px;
+     border-radius: 5px;
+ }
+
+ 
+#class{
+   
+    margin-left: 100px;
+    border-left: 6px solid gray;
+    box-shadow: 10px 10px 5px 0 gray;
+    border-image:linear-gradient(45deg,red,blue) 10;
+    padding-right: 5px;
+  
+   
+    
+}
+#class1{ 
+    margin-left: 12px;
+    border-left: 6px solid gray;
+  
+    border-image:linear-gradient(45deg,gray,red) 10;
+    box-shadow: 10px 10px 5px 0 gray;
+    padding-left: 5px;
+}
+
+.new-div{
+    display: flex;
+    margin-bottom:5% ;
+}
+.new{
+
+   
+    padding-left: 2px;
+        width: 50%;
+        margin-left:1%;
+        
+}
+.new img{
+    width:90%;
+}
+.control{
+ margin-top: 45px;
+    margin-bottom:56px;
+    box-shadow: 10px 10px 8px 10px black;
+    border-left: 9px solid;
+    border-image:linear-gradient(45deg,rgba(7, 7, 78, 0.726),white)10;
+}
+.orange{
+    color:orange;
+    background-image: linear-gradient(pink,yellow);
+    border-radius:12px;
+}
